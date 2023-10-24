@@ -1,9 +1,6 @@
 # Telesphore Uwabera's Personal Website
 
 This repository contains the source code for Telesphore Uwabera's personal website. The website is created using HTML, CSS, and JavaScript.
-
-![Telesphore Uwabera](https://uploads-ssl.webflow.com/625d236d30e60f9732566ae9/625f093b879139466bd9b619_Opengraph.jpg)
-
 ## Overview
 
 - **Author:** Telesphore Uwabera
